@@ -1,1 +1,1 @@
-npm i discord-.js-commando
+worker npm i discord.js-commando
