@@ -1,1 +1,1 @@
-worker npm i discord.js-commando
+worker node bot.js
