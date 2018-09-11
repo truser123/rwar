@@ -105,4 +105,4 @@ client.on('guildMemberAdd', async member => {
     member.addRole(girisrolveri);
   }
 });
- client.login('NDcyNzg4NjQyMzk4NDcwMTQ1.Dnf_ow.K1IH7nfHGRovTx59Ey9-7uPbMzc')
+ client.login(process.env.BOT_TOKEN)
